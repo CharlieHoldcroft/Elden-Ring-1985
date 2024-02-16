@@ -302,8 +302,6 @@ while (classChosen == true)
                 break;
             }
             break;
-
-
     }
 }
 #endregion
