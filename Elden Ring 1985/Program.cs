@@ -13,6 +13,8 @@ string build = "";
 string attackname = "";
 //damage of the chosen attack
 int attackdamage;
+//Class chosen
+bool = classChosen = true;
 //Response to wether or not they chose the right build
 string answer;
 //Number used to decide which spell the astrologer or prisoner use
